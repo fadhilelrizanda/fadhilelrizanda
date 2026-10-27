@@ -30,6 +30,18 @@ I build machine learning systems, from research to something that runs. I finish
 - **Kev decision models:** customer-service classification, head ablations, and a Rust compilation of the model.
 - **Orbit:** a personal assistant workspace with agents, browser voice and MCP integrations.
 
+## Publications and IP
+
+**Preprints** (with Husni Fadhilah and Hasna Faridah)
+- Does Matched-Pair Data Reduce Over-Defense in a Small Prompt-Injection Guard? A Controlled English–Indonesian Ablation. *Preprints.org*, Oct 2026.
+- Does Evidence Routing Help? Attributing the Gains of Richer Decision Heads on a Frozen 0.8B Model. *Preprints.org*, Oct 2026.
+- Kev-Index: Self-Shortlisting for a Small Decision Model, Evaluated on 205-Option CVE-to-CWE Mapping and Two Smaller Security Tasks. *Preprints.org*, Oct 2026.
+- Condition-Aware Active Learning for Bearing Fault Diagnosis under Asset-Level Domain Shift: A Reproducible Digital-Twin-Inspired Study. *SSRN*, Sep 2026.
+
+**Copyright registrations** (Indonesia, co-inventor, listed on [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6013301/?view=iprs))
+- Model Klasifikasi Tanah Menggunakan ANN, 2025.
+- App Soil Classification, 2024.
+
 ## Tech stack
 
 | Area | Tools |
