@@ -1,18 +1,45 @@
-# 💫 About Me:
-I'm currently master student in informatics with field of artificial intelligence.<br>My focus is in building machine learning model in field of computer vision. Feel free to ask if you find something interesting in my repo :)
+<div align="center">
 
+# Fadhil Elrizanda
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fadhil-elrizanda/) 
+**AI Engineer at Riset.ai** · M.Eng. (M.T.) Informatics, AI specialization · Institut Teknologi Bandung
 
-# 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fadhilelrizanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fadhilelrizanda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilelrizanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer vision · 3D perception · efficient inference · LLM systems
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fadhilelrizanda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhil-elrizanda/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadhilelrizanda@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white)](https://fadhilelrizanda.github.io)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## About
+
+I build machine learning systems, from research to something that runs. I finished my master's in Informatics with a specialization in AI, and I now work as an AI Engineer. My research centers on making perception models smaller and faster, such as knowledge distillation and neural architecture search for detection, and on running models efficiently in production.
+
+## Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [bevfusion-multistage-kd](https://github.com/fadhilelrizanda/bevfusion-multistage-kd) | Multi-stage knowledge distillation for resource-constrained multimodal BEVFusion 3D detection. Reproducibility bundle for a journal manuscript. | PyTorch, MMDetection3D, W&B |
+| [nas-efficient-detection](https://github.com/fadhilelrizanda/nas-efficient-detection) | Distillation-aware neural architecture search for lightweight YOLO26 students on VisDrone-DET. | PyTorch, Kaggle, W&B |
+| [kev-rust](https://github.com/fadhilelrizanda/kev-rust) | Kev-0.8B inference in pure Rust on Candle. One binary for CPU or CUDA. Zero decision flips against the official Python model on 22 questions. | Rust, Candle, CUDA |
+| [text2room-living-room-viewer](https://github.com/fadhilelrizanda/text2room-living-room-viewer) | Interactive browser viewer for a Text2Room generated living-room reconstruction. | Three.js |
+| [cypher-generation-llm](https://github.com/fadhilelrizanda/cypher-generation-llm) | Transformer models for Text2Cypher query generation. | PyTorch |
+
+**Private work** (code not public):
+- **Kev decision models:** customer-service classification, head ablations, and a Rust compilation of the model.
+- **Orbit:** a personal assistant workspace with agents, browser voice and MCP integrations.
+
+## Tech stack
+
+| Area | Tools |
+| --- | --- |
+| Vision and 3D | PyTorch, MMDetection3D, YOLO, BEVFusion, VisDrone |
+| LLM and agents | Transformers, LangChain, MCP |
+| Deployment | ONNX, TensorRT, Rust, Candle |
+| Languages | Python, Rust, TypeScript, JavaScript, C++ |
+| Tooling | Weights & Biases, Kaggle, Jupyter, Git |
+
+## Get in touch
+
+Open to conversations about computer vision, efficient models and applied AI. Email me at [fadhilelrizanda@gmail.com](mailto:fadhilelrizanda@gmail.com).
